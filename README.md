@@ -55,19 +55,24 @@ My primary focus and strongest skill set.
 ### 🎨 Styling & Design Systems
 From raw CSS to modern utility-first approaches, I ensure pixel-perfect implementation.
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,sass,css&theme=dark" alt="Styling" />
-  <br />
-  <img src="https://img.shields.io/badge/Tailwind%20Merge-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind Merge" />
-  <img src="https://img.shields.io/badge/CVA-black?style=for-the-badge" alt="CVA" />
-  <img src="https://img.shields.io/badge/clsx-blue?style=for-the-badge" alt="CLSX" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" height="40" alt="Styled Components" />
+  <img src="https://skillicons.dev/icons?i=sass&theme=dark" height="40" alt="Sass" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_Merge-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white&height=40" height="40" alt="Tailwind Merge" />
+  <img src="https://img.shields.io/badge/CVA-000000?style=flat-square&height=40" height="40" alt="CVA" />
+  <img src="https://img.shields.io/badge/clsx-1E90FF?style=flat-square&height=40" height="40" alt="CLSX" />
 </div>
 
 ### ⚙️ Code Quality & Tooling
 I value standardized codebases and robust workflows.
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,eslint,git,github,nodejs&theme=dark" alt="Code Quality" />
-  <br />
-  <img src="https://img.shields.io/badge/Husky-brown?style=for-the-badge&logo=git&logoColor=white" alt="Husky" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=eslint&theme=dark" height="40" alt="ESLint" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/husky/husky-original.svg" height="40" alt="Husky" />
 </div>
 
 ---
