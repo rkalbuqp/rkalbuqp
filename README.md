@@ -206,6 +206,12 @@ I value standardized codebases and robust workflows.
 <br />
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=rkalbuqp&style=flat-square&label=Profile+Views&color=7aa2f7" alt="Profile Views" />
 </div>
 
