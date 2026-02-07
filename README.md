@@ -157,6 +157,27 @@ I value standardized codebases and robust workflows.
 ## 📊 GitHub Activity
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rkalbuqp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkalbuqp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkalbuqp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="150" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkalbuqp&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak Stats" />
+</div>
+
+<br />
+
+<div align="center">
   <!-- Badges (Style: Flat Square | Theme: Tokyonight) -->
   <a href="https://github.com/rkalbuqp/rkalbuqp/stargazers">
     <img src="https://img.shields.io/github/stars/rkalbuqp/rkalbuqp?style=flat-square&logo=github&color=e0af68&labelColor=1a1b27" height="28" alt="Stars" />
