@@ -1,76 +1,122 @@
-## 👋 Hi there, I'm Kassia Albuquerque!
+# Hi there, I'm Kassia Albuquerque! 👋
 
-🎓 **About Me:**
-- 🌍 Based in Brazil.
-- 💼 Working as a Frontend Developer.
-- 🎓 Background in technology and innovation.
-- 💻 Passionate about building impactful and high-quality frontend solutions.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Tech+Enthusiast;Creative+Coder" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  Looking to create impactful and high-quality frontend solutions.
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rkalbuqp/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rkalbuqp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/4010">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.instagram.com/kalbuqp/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br />
+
+## 👩‍💻 About Me
+
+As a passionate **Frontend Developer** based in Brazil, I specialize in building responsive, accessible, and performant web applications. My journey in technology is driven by a deep curiosity about how things work, combining technical precision with creative problem-solving.
+
+I have strong expertise in the modern JavaScript ecosystem, focusing on creating seamless user experiences. I take pride in writing clean, maintainable code and am always eager to learn new technologies to solve complex challenges.
+
+- 💼 **Current Focus:** Specialized in **React** and **Next.js**, crafting scalable frontend architectures.
+- 🎓 **Background:** Web Development (Estartando DEVS) & Neuroscience (Harvard edX).
+- 🚀 **Goals:** Contributing to impactful projects and mastering advanced frontend architecture.
 
 ---
 
-## 🎓 Education
+## 🛠️ Expertise & Stack
 
-- **Estartando DEVS**: Formação em **Front-end Developer (web)**
+### ⚛️ React Ecosystem (Specialty)
+My primary focus and strongest skill set.
+<div align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+</div>
 
-[![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)
-  - **Fundamentals of Neuroscience, Part 1:** The Electrical Properties of the Neuron
-  - **Fundamentals of Neuroscience, Part 2:** Neurons and Networks
-  - **Fundamentals of Neuroscience, Part 3:** The Brain
-  - **Introduction to Web Development:** HTML5, CSS3, and JavaScript
+### 🌐 Other Frameworks
+<div align="left">
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" alt="Nuxt JS" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</div>
 
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
-  - **Aprenda React Js, Redux, Webpack, Redux-Form, MongoDB, Express, Node e Vários exercícios práticos e Duas Apps do ZERO!**
-  - **5 course in 1 for Beginners- Master Python with AI, Generative AI, ChatGPT, GenAI APIs, Google Gemini and 10+ AI tools.**
-  - **Angular:** O Guia Definitivo das Principais Funcionalidades
-  - **Curso de JavaScript e TypeScript:** do básico ao avançado JS/TS
+### 🎨 Styling & Design Systems
+From raw CSS to modern utility-first approaches, I ensure pixel-perfect implementation.
+<div align="left">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind%20Merge-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind Merge" />
+  <img src="https://img.shields.io/badge/CVA-black?style=for-the-badge" alt="CVA" />
+  <img src="https://img.shields.io/badge/clsx-blue?style=for-the-badge" alt="CLSX" />
+</div>
+
+### ⚙️ Code Quality & Tooling
+I value standardized codebases and robust workflows.
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Husky-brown?style=for-the-badge&logo=git&logoColor=white" alt="Husky" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+</div>
 
 ---
-
-- 🌱 **Currently Learning:**
-
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-  
-
-- 💬 Feel free to ask me anything, I am always open to collaboration and eager to learn together!
-
-- 📫 **How to Reach Me:**
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rkalbuqp/)
-  [![GitHub](https://img.shields.io/github/followers/rkalbuqp?label=follow&style=social)](https://github.com/rkalbuqp/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/kalbuqp/)
-  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rkalbuqp@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/Its_Kassia#4010)
-
-## 🛠️ Tools and Technologies:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
-## 🛠️ Frameworks:
-
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-
-## 📈 Featured Projects:
-
-[![Pokédex_Project](https://img.shields.io/badge/-Project%201-444444?style=flat&logo=github)](https://github.com/rkalbuqp/Pokedex.git)
-[![Project](https://img.shields.io/badge/-Project%202-444444?style=flat&logo=github)](https://github.com/rkalbuqp/project2)
 
 ## 📊 GitHub Stats
 
-<img align="left" alt="Kassia Albuquerque's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rkalbuqp&show_icons=true&theme=radical" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rkalbuqp&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkalbuqp&layout=compact&theme=radical)](https://github.com/rkalbuqp/github-readme-stats)
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkalbuqp&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🌐 Languages</h3>
+  <img src="https://img.shields.io/badge/Portuguese-Native-009c3b?style=for-the-badge&logo=brazil&logoColor=white" alt="Portuguese Native" />
+  <img src="https://img.shields.io/badge/English-Second%20Language-00247d?style=for-the-badge&logo=united-kingdom&logoColor=white" alt="English Second Language" />
+</div>
+
+
 
 ---
 
-⭐️ From [Kassia Albuquerque](https://github.com/rkalbuqp)
+## 📚 Education
+
+- **Estartando DEVS**: Front-end Developer (web)
+- **Harvard (edX)**: Fundamentals of Neuroscience
+- **Udemy**: React, Python, AI, Angular, JS/TS
+
+---
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/rkalbuqp">Kassia Albuquerque</a>
+</p>
