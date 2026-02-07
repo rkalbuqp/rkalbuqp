@@ -121,7 +121,7 @@ I value standardized codebases and robust workflows.
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=eslint&theme=dark" width="48" height="48" alt="ESLint" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" />
       <br>ESLint
     </td>
     <td align="center" width="96">
@@ -137,7 +137,7 @@ I value standardized codebases and robust workflows.
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/husky/husky-original.svg" width="48" height="48" alt="Husky" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/husky/husky-original.svg" width="48" height="48" alt="Husky" />
       <br>Husky
     </td>
   </tr>
