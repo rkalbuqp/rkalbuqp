@@ -247,8 +247,8 @@ I value standardized codebases and robust workflows.
 
 <table border="0" width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/.github/assets/harvard.png" width="80" alt="Harvard" />
+    <td width="30%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/.github/assets/harvard.png" height="80" alt="Harvard" />
       <br /><br />
       <h3>Harvard University</h3>
       <p><b>Computer Science (CS50)</b></p>
@@ -257,8 +257,9 @@ I value standardized codebases and robust workflows.
         Algorithms, Data Structures,<br />Software Engineering Principles
       </span>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/.github/assets/estartando-devs.jpg" width="80" style="border-radius: 50%;" alt="Estartando DEVS" />
+    <td width="5%"></td>
+    <td width="30%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/.github/assets/estartando-devs.jpg" height="80" style="border-radius: 50%;" alt="Estartando DEVS" />
       <br /><br />
       <h3>Estartando DEVS</h3>
       <p><b>Frontend Development</b></p>
@@ -267,8 +268,9 @@ I value standardized codebases and robust workflows.
         Immersive Bootcamp<br />Web Technologies & Agile
       </span>
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" width="100" alt="Udemy" />
+    <td width="5%"></td>
+    <td width="30%" align="center" valign="top">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" height="80" alt="Udemy" />
       <br /><br />
       <h3>Continuous Learning</h3>
       <p><b>Specializations</b></p>
