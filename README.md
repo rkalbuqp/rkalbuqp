@@ -82,8 +82,9 @@ I value standardized codebases and robust workflows.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkalbuqp&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkalbuqp&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Langs" height="165" />
+  <!-- Stats Cards will appear here after the workflow runs -->
+  <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 </div>
 
 <br />
