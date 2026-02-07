@@ -239,7 +239,7 @@ I value standardized codebases and robust workflows.
   </tr>
   <tr>
     <td width="60" align="center">
-      <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" width="40" height="40" alt="Udemy" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" width="40" alt="Udemy" />
     </td>
     <td>
       <b>Udemy</b>
