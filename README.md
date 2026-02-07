@@ -217,22 +217,22 @@ I value standardized codebases and robust workflows.
 
 <br />
 
-<table border="0" width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rkalbuqp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkalbuqp&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkalbuqp&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
 </div>
+
+<br />
+
+<table border="0" width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
