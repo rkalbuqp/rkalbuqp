@@ -248,34 +248,40 @@ I value standardized codebases and robust workflows.
 <table border="0" width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/.github/assets/harvard.png" height="80" alt="Harvard" />
-      <br /><br />
-      <h3>Harvard University</h3>
-      <p><b>Computer Science (CS50)</b></p>
-      <br />
-      <span style="font-size: 12px;">
-        Algorithms, Data Structures,<br />Software Engineering Principles
-      </span>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/.github/assets/harvard.png" height="80" alt="Harvard" />
+        <br /><br />
+        <h3>Harvard University</h3>
+        <p><b>Computer Science (CS50)</b></p>
+        <br />
+        <span style="font-size: 12px;">
+          Algorithms, Data Structures,<br />Software Engineering Principles
+        </span>
+      </div>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/.github/assets/estartando-devs.jpg" height="80" style="border-radius: 50%;" alt="Estartando DEVS" />
-      <br /><br />
-      <h3>Estartando DEVS</h3>
-      <p><b>Frontend Development</b></p>
-      <br />
-      <span style="font-size: 12px;">
-        Immersive Bootcamp<br />Web Technologies & Agile
-      </span>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/.github/assets/estartando-devs.jpg" height="80" style="border-radius: 50%;" alt="Estartando DEVS" />
+        <br /><br />
+        <h3>Estartando DEVS</h3>
+        <p><b>Frontend Development</b></p>
+        <br />
+        <span style="font-size: 12px;">
+          Immersive Bootcamp<br />Web Technologies & Agile
+        </span>
+      </div>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" height="80" alt="Udemy" />
-      <br /><br />
-      <h3>Continuous Learning</h3>
-      <p><b>Specializations</b></p>
-      <br />
-      <span style="font-size: 12px;">
-        React Ecosystem, Python AI,<br />Advanced TypeScript, UX/UI
-      </span>
+      <div align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" height="80" alt="Udemy" />
+        <br /><br />
+        <h3>Continuous Learning</h3>
+        <p><b>Specializations</b></p>
+        <br />
+        <span style="font-size: 12px;">
+          React Ecosystem, Python AI,<br />Advanced TypeScript, UX/UI
+        </span>
+      </div>
     </td>
   </tr>
 </table>
