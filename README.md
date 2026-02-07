@@ -219,7 +219,7 @@ I value standardized codebases and robust workflows.
 <table align="center" width="100%">
   <tr>
     <td width="60" align="center">
-      <img src="https://avatars.githubusercontent.com/u/49030204?s=400&v=4" width="40" alt="Estartando DEVS" />
+      <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/.github/assets/estartando-devs.jpg" width="40" alt="Estartando DEVS" />
     </td>
     <td>
       <b>Estartando DEVS</b>
