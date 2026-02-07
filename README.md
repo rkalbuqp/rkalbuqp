@@ -43,37 +43,106 @@ I have strong expertise in the modern JavaScript ecosystem, focusing on creating
 
 ### ⚛️ React Ecosystem (Specialty)
 My primary focus and strongest skill set.
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React Ecosystem" />
-</div>
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+  </tr>
+</table>
+<br clear="both" />
 
 ### 🌐 Other Frameworks
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nuxtjs,angular,vue&theme=dark" alt="Other Frameworks" />
-</div>
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" width="48" height="48" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="Vue.js" />
+      <br>Vue.js
+    </td>
+  </tr>
+</table>
+<br clear="both" />
 
 ### 🎨 Styling & Design Systems
 From raw CSS to modern utility-first approaches, I ensure pixel-perfect implementation.
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="40" alt="TailwindCSS" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" height="40" alt="Styled Components" />
-  <img src="https://skillicons.dev/icons?i=sass&theme=dark" height="40" alt="Sass" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS" />
-  <img src="https://img.shields.io/badge/Tailwind_Merge-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white&height=40" height="40" alt="Tailwind Merge" />
-  <img src="https://img.shields.io/badge/CVA-000000?style=flat-square&height=40" height="40" alt="CVA" />
-  <img src="https://img.shields.io/badge/clsx-1E90FF?style=flat-square&height=40" height="40" alt="CLSX" />
-</div>
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" width="48" height="48" alt="Styled Components" />
+      <br>Styled Comp
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass&theme=dark" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/-_-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" width="48" height="48" alt="Tailwind Merge" />
+      <br>Tw Merge
+    </td>
+    <td align="center" width="96">
+      <img src="https://placehold.co/48x48/000000/FFFFFF/png?text=CVA&font=roboto" width="48" height="48" alt="CVA" />
+      <br>CVA
+    </td>
+    <td align="center" width="96">
+      <img src="https://placehold.co/48x48/1E90FF/FFFFFF/png?text=CLSX&font=roboto" width="48" height="48" alt="CLSX" />
+      <br>CLSX
+    </td>
+  </tr>
+</table>
+<br clear="both" />
 
 ### ⚙️ Code Quality & Tooling
 I value standardized codebases and robust workflows.
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=eslint&theme=dark" height="40" alt="ESLint" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/husky/husky-original.svg" height="40" alt="Husky" />
-</div>
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=eslint&theme=dark" width="48" height="48" alt="ESLint" />
+      <br>ESLint
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/husky/husky-original.svg" width="48" height="48" alt="Husky" />
+      <br>Husky
+    </td>
+  </tr>
+</table>
+<br clear="both" />
 
 ---
 
