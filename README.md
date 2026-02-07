@@ -29,33 +29,40 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
-  <i>"Building the bridge between complex logic and intuitive user experiences."</i>
-</div>
+> *"Building the bridge between complex logic and intuitive user experiences."*
+
+I am a **Frontend Developer** based in Brazil with a unique perspective: **I merge technical expertise with a background in Neuroscience.**
+
+This combination allows me to approach web development not just as "writing code," but as crafting digital environments that align with how users **think**, **process information**, and **interact**. I don't just build interfaces; I build **cognitive bridges**.
+
+My journey began with a fascination for how the human mind works, which naturally evolved into a passion for how humans interact with technology. Today, I channel that curiosity into the **React Ecosystem**, obsessing over performance, accessibility, and clean architecture.
 
 <br />
 
-I am a **Frontend Developer** based in Brazil merging technical expertise with a background in **Neuroscience**. I build cognitive bridges—digital environments that align with how users *think* and *interact*.
-
-<br />
-
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <h3>🚀 Core Philosophy</h3>
-      <p>I believe a great interface feels <b>invisible</b>.</p>
-      <img src="https://img.shields.io/badge/Obsession-Performance-7aa2f7?style=flat-square&logo=speedtest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Focus-Accessibility-bb9af7?style=flat-square&logo=accessibility&logoColor=white" />
-      <br />
-      <img src="https://img.shields.io/badge/Stack-React_Ecosystem-7dcfff?style=flat-square&logo=react&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ What Defines My Work</h3>
+      <p>
+        I believe a great interface feels <b>invisible</b>. When a user navigates a well-designed app, they shouldn't notice the code—they should only feel the fluidity of the experience.
+        <br /><br />
+        My work is defined by a relentless pursuit of:
+      </p>
       <ul style="list-style-type: none; padding: 0;">
-        <li>🧠 <b>Architectural Mindset</b></li>
-        <li>🎨 <b>Visual Precision</b></li>
-        <li>🚀 <b>Continuous Evolution</b></li>
+        <li>⚡ <b>Performance:</b> Every millisecond counts.</li>
+        <li>♿ <b>Accessibility:</b> The web is for everyone.</li>
+        <li>🧱 <b>Scalability:</b> Clean code that grows with the product.</li>
       </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>⚡ Technical Focus</h3>
+      <p>Currently specializing in:</p>
+      <img src="https://img.shields.io/badge/Stack-React_&_Next.js-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+      <br />
+      <img src="https://img.shields.io/badge/Language-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/Styling-Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <br /><br />
       <img src="https://img.shields.io/badge/Status-Open_to_Work-41a6b5?style=flat-square" />
     </td>
   </tr>
