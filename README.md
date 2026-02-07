@@ -14,12 +14,15 @@
   <a href="https://www.linkedin.com/in/rkalbuqp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rkalbuqp@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/4010" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kalbuqp/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
   </a>
