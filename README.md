@@ -32,42 +32,48 @@
 
 ## 👩‍💻 About Me
 
-> *"Building the bridge between complex logic and intuitive user experiences."*
+<div align="center">
+  <br />
+  <h3><i>"Merging Neuroscience with Digital Architecture."</i></h3>
+  <br />
+</div>
 
-I am a **Frontend Developer** based in Brazil with a unique perspective: **I merge technical expertise with a background in Neuroscience.**
-
-This combination allows me to approach web development not just as "writing code," but as crafting digital environments that align with how users **think**, **process information**, and **interact**. I don't just build interfaces; I build **cognitive bridges**.
-
-My journey began with a fascination for how the human mind works, which naturally evolved into a passion for how humans interact with technology. Today, I channel that curiosity into the **React Ecosystem**, obsessing over performance, accessibility, and clean architecture.
+I am a **Frontend Specialist** who views code through the lens of cognitive science. My background in **Neuroscience** informs every architectural decision I make, ensuring that digital experiences are not just functional, but intuitively aligned with human processing.
 
 <br />
 
-<table width="100%">
+<table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Core Philosophy</h3>
-      <p>
-        I believe a great interface feels <b>invisible</b>. When a user navigates a well-designed app, they shouldn't notice the code—they should only feel the fluidity of the experience.
-        <br /><br />
-        My work is defined by a relentless pursuit of:
-      </p>
-      <ul style="list-style-type: none; padding: 0;">
-        <li>⚡ <b>Performance:</b> Every millisecond counts.</li>
-        <li>♿ <b>Accessibility:</b> The web is for everyone.</li>
-        <li>🧱 <b>Scalability:</b> Clean code that grows with the product.</li>
-      </ul>
+    <td width="33%" align="center" valign="top">
+      <h3>🧠 Cognitive UX</h3>
+      <p><i>Designing for the Mind</i></p>
+      <br />
+      I build interfaces that reduce cognitive load. By understanding how the brain processes information, I create flows that feel <b>natural</b> and <b>effortless</b> to the user.
     </td>
-    <td width="45%" valign="top">
-      <h3>⚡ Technical Focus</h3>
-      <p>Currently specializing in:</p>
-      <img src="https://img.shields.io/badge/Stack-React_&_Next.js-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+    <td width="33%" align="center" valign="top">
+      <h3>⚛️ React Engineering</h3>
+      <p><i>Performance Obsessed</i></p>
       <br />
-      <img src="https://img.shields.io/badge/Language-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+      Specializing in the <b>React Ecosystem</b>, I engineer scalable, high-performance applications. Clean architecture and efficient rendering are non-negotiable standards.
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎨 Visual Precision</h3>
+      <p><i>Pixel-Perfect Execution</i></p>
       <br />
-      <img src="https://img.shields.io/badge/Styling-Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      A great system must also be beautiful. I bridge the gap between design and dev, implementing sophisticated UIs with modern tools like <b>Tailwind</b> and <b>Styled Components</b>.
     </td>
   </tr>
 </table>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-High_Performance-7aa2f7?style=for-the-badge&logo=speedtest&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Core-Accessibility-bb9af7?style=for-the-badge&logo=accessibility&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-41a6b5?style=for-the-badge" />
+</div>
 
 ---
 
