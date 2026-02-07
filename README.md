@@ -39,15 +39,27 @@ I am a **Frontend Developer** based in Brazil merging technical expertise with a
 
 <br />
 
-### � Core Philosophy
-I believe a great interface feels **invisible**. My obsession lies in performance, accessibility, and creating buttery smooth interactions using the **React Ecosystem**.
-
-<br />
-
-### ⚡ What Defines My Work
-*   **🧠 Architectural Mindset:** Designing scalable systems with Next.js & TypeScript.
-*   **🎨 Visual Precision:** Pixel-perfect implementation via Tailwind & Styled Components.
-*   **🚀 Continuous Evolution:** Exploring the bleeding edge to deliver faster applications.
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Core Philosophy</h3>
+      <p>I believe a great interface feels <b>invisible</b>.</p>
+      <img src="https://img.shields.io/badge/Obsession-Performance-7aa2f7?style=flat-square&logo=speedtest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Focus-Accessibility-bb9af7?style=flat-square&logo=accessibility&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/Stack-React_Ecosystem-7dcfff?style=flat-square&logo=react&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ What Defines My Work</h3>
+      <ul style="list-style-type: none; padding: 0;">
+        <li>🧠 <b>Architectural Mindset</b></li>
+        <li>🎨 <b>Visual Precision</b></li>
+        <li>🚀 <b>Continuous Evolution</b></li>
+      </ul>
+      <img src="https://img.shields.io/badge/Status-Open_to_Work-41a6b5?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
