@@ -42,7 +42,7 @@ I am a **Frontend Specialist** who views code through the lens of cognitive scie
 
 <br />
 
-<table border="0" width="100%">
+<table border="0" width="100%" align="center">
   <tr>
     <td width="33%" align="center" valign="top">
       <h3>🧠 Cognitive UX</h3>
@@ -245,7 +245,7 @@ I value standardized codebases and robust workflows.
   <br /><br />
 </div>
 
-<table border="0" width="100%">
+<table border="0" width="100%" align="center">
   <tr>
     <td width="33%" align="center" valign="top">
       <div align="center">
