@@ -158,7 +158,7 @@ I value standardized codebases and robust workflows.
 
 <div align="center">
   <!-- Imagem gerada automaticamente pelo GitHub Actions (metrics.yml) -->
-  <img src="https://github.com/rkalbuqp/rkalbuqp/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br />
