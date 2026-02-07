@@ -239,7 +239,7 @@ I value standardized codebases and robust workflows.
   </tr>
   <tr>
     <td width="60" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_shield.svg/240px-Harvard_University_shield.svg.png" width="40" alt="Harvard University" />
+      <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/.github/assets/harvard.png" width="40" alt="Harvard University" />
     </td>
     <td>
       <b>Harvard University</b>
