@@ -157,22 +157,8 @@ I value standardized codebases and robust workflows.
 ## 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rkalbuqp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkalbuqp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkalbuqp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="150" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkalbuqp&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak Stats" />
+  <!-- Imagem gerada automaticamente pelo GitHub Actions (metrics.yml) -->
+  <img src="https://github.com/rkalbuqp/rkalbuqp/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br />
