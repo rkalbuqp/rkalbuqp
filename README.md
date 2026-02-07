@@ -199,6 +199,14 @@ I value standardized codebases and robust workflows.
 <br />
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rkalbuqp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="rkalbuqp's trophies" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <!-- 3D Contrib Green (Local File - Stable) -->
   <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/profile-3d/profile-night-rainbow.svg?v=3" alt="3D Contribution Graph" width="100%" />
 </div>
@@ -206,7 +214,13 @@ I value standardized codebases and robust workflows.
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkalbuqp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
