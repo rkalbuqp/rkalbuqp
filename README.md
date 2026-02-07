@@ -137,7 +137,7 @@ I value standardized codebases and robust workflows.
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/husky/husky-original.svg" width="48" height="48" alt="Husky" />
+      <img src=".github/assets/husky.svg" width="48" height="48" alt="Husky" />
       <br>Husky
     </td>
   </tr>
