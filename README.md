@@ -29,13 +29,17 @@
 
 ## 👩‍💻 About Me
 
-As a passionate **Frontend Developer** based in Brazil, I specialize in building responsive, accessible, and performant web applications. My journey in technology is driven by a deep curiosity about how things work, combining technical precision with creative problem-solving.
+> *"Building the bridge between complex logic and intuitive user experiences."*
 
-I have strong expertise in the modern JavaScript ecosystem, focusing on creating seamless user experiences. I take pride in writing clean, maintainable code and am always eager to learn new technologies to solve complex challenges.
+I am a **Frontend Developer** based in Brazil with a unique perspective that blends technical expertise with a background in **Neuroscience**. This combination allows me to approach web development not just as writing code, but as crafting digital environments that align with how users think and interact.
 
-- 💼 **Current Focus:** Specialized in **React** and **Next.js**, crafting scalable frontend architectures.
-- 🎓 **Background:** Web Development (Estartando DEVS) & Neuroscience (Harvard edX).
-- 🚀 **Goals:** Contributing to impactful projects and mastering advanced frontend architecture.
+Specializing in the **React Ecosystem**, I am obsessed with performance, accessibility, and clean architecture. I believe that a great interface is one that feels invisible—where every interaction is smooth, predictable, and delightful.
+
+### � What I bring to the table:
+
+- **Architectural Mindset:** I don't just build components; I design scalable systems using **Next.js**, **TypeScript**, and modern design patterns.
+- **Visual Precision:** Leveraging tools like **Tailwind CSS** and **Styled Components** to ensure pixel-perfect implementation across all devices.
+- **Continuous Evolution:** Always exploring the bleeding edge of frontend tech to deliver faster, smarter, and more resilient applications.
 
 ---
 
