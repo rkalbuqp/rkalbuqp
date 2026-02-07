@@ -35,67 +35,19 @@
 
 <br />
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Who am I?</h3>
-      <p>
-        I am a <b>Frontend Developer</b> based in Brazil with a unique edge: <b>Neuroscience</b>.
-        <br /><br />
-        This background allows me to craft digital environments that align with how users <i>think</i> and <i>interact</i>. I don't just write code; I build cognitive bridges.
-        <br /><br />
-        🔭 <b>Currently working on:</b> High-performance React Apps
-        <br />
-        🌱 <b>Learning:</b> Advanced System Architecture
-        <br />
-        💬 <b>Ask me about:</b> React, Next.js, UI/UX Psychology
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ My Coding Philosophy</h3>
-      <p>
-        I believe a great interface feels <b>invisible</b>.
-        <br /><br />
-        <ul>
-          <li><b>Obsession:</b> Performance & Accessibility</li>
-          <li><b>Stack:</b> React Ecosystem (Next.js, TS)</li>
-          <li><b>Goal:</b> Pixel-perfect, buttery smooth interactions.</li>
-        </ul>
-      </p>
-    </td>
-  </tr>
-</table>
+I am a **Frontend Developer** based in Brazil merging technical expertise with a background in **Neuroscience**. I build cognitive bridges—digital environments that align with how users *think* and *interact*.
 
 <br />
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <div align="center">
-        <h1>🧠</h1>
-        <b>Architectural Mindset</b>
-        <br />
-        I design scalable systems using <b>Next.js</b> and <b>TypeScript</b>, ensuring robust codebases.
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <div align="center">
-        <h1>🎨</h1>
-        <b>Visual Precision</b>
-        <br />
-        Leveraging <b>Tailwind</b> and <b>Styled Components</b> for pixel-perfect, responsive UIs.
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <div align="center">
-        <h1>🚀</h1>
-        <b>Continuous Evolution</b>
-        <br />
-        Always exploring the bleeding edge to deliver faster, smarter applications.
-      </div>
-    </td>
-  </tr>
-</table>
+### � Core Philosophy
+I believe a great interface feels **invisible**. My obsession lies in performance, accessibility, and creating buttery smooth interactions using the **React Ecosystem**.
+
+<br />
+
+### ⚡ What Defines My Work
+*   **🧠 Architectural Mindset:** Designing scalable systems with Next.js & TypeScript.
+*   **🎨 Visual Precision:** Pixel-perfect implementation via Tailwind & Styled Components.
+*   **🚀 Continuous Evolution:** Exploring the bleeding edge to deliver faster applications.
 
 ---
 
