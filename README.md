@@ -1,7 +1,7 @@
 # Hi there, I'm Kassia Albuquerque! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Tech+Enthusiast;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB9AF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Tech+Enthusiast;Creative+Coder" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -154,44 +154,25 @@ I value standardized codebases and robust workflows.
 
 ---
 
-## � Featured Projects
+## ⚡ Coding Activity
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center">Project Name 1</h3>
-      <a href="https://github.com/rkalbuqp">
-        <img src="https://placehold.co/600x300/1a1b27/c0caf5?text=React+Project+Preview" alt="Project 1" width="100%" style="border-radius: 10px;" />
-      </a>
-      <p align="center">
-        A high-performance web application built with Next.js and Tailwind CSS.
-        <br />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-0B1120?style=flat&logo=tailwindcss&logoColor=38B2AC" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3 align="center">Project Name 2</h3>
-      <a href="https://github.com/rkalbuqp">
-        <img src="https://placehold.co/600x300/1a1b27/c0caf5?text=Frontend+Project+Preview" alt="Project 2" width="100%" style="border-radius: 10px;" />
-      </a>
-      <p align="center">
-        Interactive dashboard featuring complex state management and clean UI.
-        <br />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Styled-DB7093?style=flat&logo=styled-components&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&background=1A1B2700&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%2F+Next.js+Specialist;Creating+Elegant+Solutions;Always+Learning" alt="Typing SVG" />
+  </a>
+</div>
 
 <br />
 
 <div align="center">
   <!-- 3D Contrib Green (Local File - Stable) -->
-  <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/profile-3d/profile-night-rainbow.svg?v=3" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/profile-3d/profile-night-rainbow.svg?v=3" alt="3D Contribution Graph" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rkalbuqp&style=flat-square&label=Profile+Views&color=7aa2f7" alt="Profile Views" />
 </div>
 
 <br />
