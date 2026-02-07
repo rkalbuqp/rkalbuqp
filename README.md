@@ -82,19 +82,16 @@ I value standardized codebases and robust workflows.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rkalbuqp&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <a href="https://github.com/rkalbuqp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkalbuqp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Kassia's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkalbuqp&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkalbuqp&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 <br />
