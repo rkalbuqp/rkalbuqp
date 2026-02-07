@@ -137,7 +137,7 @@ I value standardized codebases and robust workflows.
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src=".github/assets/husky.svg" width="48" height="48" alt="Husky" />
+      <img src="https://img.shields.io/badge/Husky-000000?style=flat-square&logo=husky&logoColor=white" width="96" height="28" alt="Husky" />
       <br>Husky
     </td>
   </tr>
@@ -229,7 +229,7 @@ I value standardized codebases and robust workflows.
   </tr>
   <tr>
     <td width="60" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Harvard_University_shield.png/150px-Harvard_University_shield.png" width="40" alt="Harvard" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Harvard_University_shield.svg" width="40" alt="Harvard" />
     </td>
     <td>
       <b>Harvard University (edX)</b>
@@ -239,7 +239,7 @@ I value standardized codebases and robust workflows.
   </tr>
   <tr>
     <td width="60" align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/udemy-icon.svg" width="40" height="40" alt="Udemy" />
+      <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" width="40" height="40" alt="Udemy" />
     </td>
     <td>
       <b>Udemy</b>
