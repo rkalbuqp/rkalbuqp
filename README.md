@@ -219,7 +219,7 @@ I value standardized codebases and robust workflows.
 <table align="center" width="100%">
   <tr>
     <td width="60" align="center">
-      <img src="https://avatars.githubusercontent.com/u/49030204?s=400&v=4" width="40" height="40" alt="Estartando DEVS" />
+      <img src="https://avatars.githubusercontent.com/u/49030204?s=400&v=4" width="40" alt="Estartando DEVS" />
     </td>
     <td>
       <b>Estartando DEVS</b>
@@ -229,22 +229,22 @@ I value standardized codebases and robust workflows.
   </tr>
   <tr>
     <td width="60" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Harvard_University_shield.svg" width="40" alt="Harvard" />
-    </td>
-    <td>
-      <b>Harvard University (edX)</b>
-      <br>
-      Fundamentals of Neuroscience
-    </td>
-  </tr>
-  <tr>
-    <td width="60" align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" width="40" alt="Udemy" />
+      <img src="https://cdn.simpleicons.org/udemy/white" width="40" alt="Udemy" />
     </td>
     <td>
       <b>Udemy</b>
       <br>
       React, Python, AI, Angular, JS/TS
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_shield.svg/240px-Harvard_University_shield.svg.png" width="40" alt="Harvard University" />
+    </td>
+    <td>
+      <b>Harvard University</b>
+      <br>
+      Computer Science (CS50)
     </td>
   </tr>
 </table>
