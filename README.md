@@ -65,8 +65,6 @@ My journey began with a fascination for how the human mind works, which naturall
       <img src="https://img.shields.io/badge/Language-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
       <br />
       <img src="https://img.shields.io/badge/Styling-Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <br /><br />
-      <img src="https://img.shields.io/badge/Status-Open_to_Work-41a6b5?style=flat-square" />
     </td>
   </tr>
 </table>
