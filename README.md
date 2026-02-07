@@ -44,23 +44,19 @@ I have strong expertise in the modern JavaScript ecosystem, focusing on creating
 ### ⚛️ React Ecosystem (Specialty)
 My primary focus and strongest skill set.
 <div align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React Ecosystem" />
 </div>
 
 ### 🌐 Other Frameworks
 <div align="left">
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82" alt="Nuxt JS" />
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs,angular,vue&theme=dark" alt="Other Frameworks" />
 </div>
 
 ### 🎨 Styling & Design Systems
 From raw CSS to modern utility-first approaches, I ensure pixel-perfect implementation.
 <div align="left">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,sass,css&theme=dark" alt="Styling" />
+  <br />
   <img src="https://img.shields.io/badge/Tailwind%20Merge-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind Merge" />
   <img src="https://img.shields.io/badge/CVA-black?style=for-the-badge" alt="CVA" />
   <img src="https://img.shields.io/badge/clsx-blue?style=for-the-badge" alt="CLSX" />
@@ -69,12 +65,9 @@ From raw CSS to modern utility-first approaches, I ensure pixel-perfect implemen
 ### ⚙️ Code Quality & Tooling
 I value standardized codebases and robust workflows.
 <div align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://skillicons.dev/icons?i=ts,eslint,git,github,nodejs&theme=dark" alt="Code Quality" />
+  <br />
   <img src="https://img.shields.io/badge/Husky-brown?style=for-the-badge&logo=git&logoColor=white" alt="Husky" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 </div>
 
 ---
