@@ -155,7 +155,17 @@ I value standardized codebases and robust workflows.
 ---
 
 ## 📊 GitHub Activity
-<img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/metrics.left.svg" alt="Metrics Left" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/rkalbuqp/rkalbuqp/main/metrics.right.svg" alt="Metrics Right" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
