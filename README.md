@@ -157,21 +157,18 @@ I value standardized codebases and robust workflows.
 ## 📊 GitHub Activity
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=rkalbuqp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkalbuqp&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkalbuqp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/rkalbuqp">
+    <img src="https://github-readme-stats.vercel.app/api?username=rkalbuqp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rkalbuqp">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkalbuqp&theme=tokyonight&hide_border=true&background=transparent" height="150" alt="Streak Stats" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkalbuqp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Top Languages" />
 </div>
 
 <br />
