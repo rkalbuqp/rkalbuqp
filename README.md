@@ -191,8 +191,24 @@ I value standardized codebases and robust workflows.
 
 <div align="center">
   <h3>🌐 Languages</h3>
-  <img src="https://img.shields.io/badge/Portuguese-Native-009c3b?style=for-the-badge&logo=brazil&logoColor=white" alt="Portuguese Native" />
-  <img src="https://img.shields.io/badge/English-Second%20Language-00247d?style=for-the-badge&logo=united-kingdom&logoColor=white" alt="English Second Language" />
+  <table align="center">
+    <tr>
+      <td align="center" width="150">
+        <img src="https://flagcdn.com/w80/br.png" alt="Portuguese" width="50" />
+        <br>
+        <b>Portuguese</b>
+        <br>
+        <span style="font-size: 12px;">Native</span>
+      </td>
+      <td align="center" width="150">
+        <img src="https://flagcdn.com/w80/gb.png" alt="English" width="50" />
+        <br>
+        <b>English</b>
+        <br>
+        <span style="font-size: 12px;">Advanced</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
@@ -200,11 +216,38 @@ I value standardized codebases and robust workflows.
 ---
 
 ## 📚 Education
-
-- **Estartando DEVS**: Front-end Developer (web)
-- **Harvard (edX)**: Fundamentals of Neuroscience
-- **Udemy**: React, Python, AI, Angular, JS/TS
-
+<table align="center" width="100%">
+  <tr>
+    <td width="60" align="center">
+      <img src="https://avatars.githubusercontent.com/u/49030204?s=200&v=4" width="40" height="40" alt="Estartando DEVS" style="border-radius: 50%" />
+    </td>
+    <td>
+      <b>Estartando DEVS</b>
+      <br>
+      Front-end Developer (Web)
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Harvard_University_shield.png/150px-Harvard_University_shield.png" width="40" alt="Harvard" />
+    </td>
+    <td>
+      <b>Harvard University (edX)</b>
+      <br>
+      Fundamentals of Neuroscience
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/udemy-icon.svg" width="40" height="40" alt="Udemy" />
+    </td>
+    <td>
+      <b>Udemy</b>
+      <br>
+      React, Python, AI, Angular, JS/TS
+    </td>
+  </tr>
+</table>
 ---
 
 <p align="center">
