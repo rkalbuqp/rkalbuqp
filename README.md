@@ -133,6 +133,10 @@ I value standardized codebases and robust workflows.
       <br>GitHub
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
