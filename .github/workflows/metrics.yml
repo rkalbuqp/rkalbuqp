@@ -21,8 +21,11 @@ jobs:
           # Options
           user: rkalbuqp
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories
           config_timezone: America/Sao_Paulo
+          
+          # Lines of code changed
+          plugin_lines: yes
           
           # Isometric Calendar (Contributions Graph)
           plugin_isocalendar: yes
