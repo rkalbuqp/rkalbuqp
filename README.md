@@ -151,15 +151,15 @@ I value standardized codebases and robust workflows.
 <div align="center">
   <!-- Badges (Style: Flat Square | Theme: Tokyonight) -->
   <a href="https://github.com/rkalbuqp/rkalbuqp/stargazers">
-    <img src="https://img.shields.io/github/stars/rkalbuqp/rkalbuqp?style=flat-square&logo=github&color=e0af68&labelColor=1a1b27" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/rkalbuqp/rkalbuqp?style=flat-square&logo=github&color=e0af68&labelColor=1a1b27" height="28" alt="Stars" />
   </a>
   &nbsp;
   <a href="https://github.com/rkalbuqp?tab=followers">
-    <img src="https://img.shields.io/github/followers/rkalbuqp?style=flat-square&logo=github&color=7aa2f7&labelColor=1a1b27" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/rkalbuqp?style=flat-square&logo=github&color=7aa2f7&labelColor=1a1b27" height="28" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/rkalbuqp/rkalbuqp/issues">
-    <img src="https://img.shields.io/github/issues/rkalbuqp/rkalbuqp?style=flat-square&logo=github&color=c0caf5&labelColor=1a1b27" alt="Issues" />
+    <img src="https://img.shields.io/github/issues/rkalbuqp/rkalbuqp?style=flat-square&logo=github&color=c0caf5&labelColor=1a1b27" height="28" alt="Issues" />
   </a>
 </div>
 
